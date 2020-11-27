@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Black-hole-news-NASA-animation-warped-light-black-hole-gravity-NASA-news-2077856.webp.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
